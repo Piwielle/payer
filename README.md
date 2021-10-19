@@ -1,4 +1,4 @@
-##INSTALLATION DE WINDOWS 
+# INSTALLATION DE WINDOWS 
 
 
 Salut. Si tu souhaites me payer pour que je t’aide à formater ton PC, installer et configurer Windows, c’est maintenant possible.
@@ -13,7 +13,7 @@ L’offre est simplement disponible suite à des demandes, si tu as pas le temps
 Tout achat donnera évidemment lieu à une facture (et sera légalement déclaré).
 
 
-##1/ Installation de Windows standard
+# 1/ Installation de Windows standard
 
 - 30€
 - Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, et des logiciels principaux.
@@ -23,7 +23,7 @@ Tout achat donnera évidemment lieu à une facture (et sera légalement déclar�
 
 
 
-##2/ Installation de Windows avancée
+# 2/ Installation de Windows avancée
 
 - 40€
 - Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, et des logiciels principaux.
@@ -34,7 +34,7 @@ Tout achat donnera évidemment lieu à une facture (et sera légalement déclar�
 - Réponse aux questions de l’utilisateur pendant le processus
 
 
-##3/ Réinstallation de Windows
+# 3/ Réinstallation de Windows
 
 - 50€
 - Sauvegarde accompagnée du PC (logiciels, jeux, et leurs configurations/paramètres)
@@ -48,7 +48,7 @@ Tout achat donnera évidemment lieu à une facture (et sera légalement déclar�
 
 
 
-##Détails des points :
+# Détails des points :
 
 
 - Installation de Windows :

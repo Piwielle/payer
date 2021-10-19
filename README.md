@@ -1,4 +1,4 @@
-<p align="center"># INSTALLATION DE WINDOWS </p>
+# INSTALLATION DE WINDOWS
 
 
 Salut. Si tu souhaites me payer pour que je t’aide à formater ton PC, installer et configurer Windows, c’est maintenant possible.
@@ -13,7 +13,7 @@ L’offre est simplement disponible suite à des demandes, si tu as pas le temps
 Tout achat donnera évidemment lieu à une facture (et sera légalement déclaré).
 
 
-# 1/ Installation de Windows standard
+## 1/ Installation de Windows standard
 
 - [x] **30€**
 - [x] Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, et des logiciels principaux.
@@ -23,7 +23,7 @@ Tout achat donnera évidemment lieu à une facture (et sera légalement déclar�
 
 
 
-# 2/ Installation de Windows avancée
+## 2/ Installation de Windows avancée
 
 - [x] **40€**
 - [x] Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, et des logiciels principaux.
@@ -34,7 +34,7 @@ Tout achat donnera évidemment lieu à une facture (et sera légalement déclar�
 - [x] Réponse aux questions de l’utilisateur pendant le processus.
 
 
-# 3/ Réinstallation de Windows
+## 3/ Réinstallation de Windows
 
 - [x] **50€**
 - [x] Sauvegarde accompagnée du PC (logiciels, jeux, et leurs configurations/paramètres)
@@ -45,11 +45,13 @@ Tout achat donnera évidemment lieu à une facture (et sera légalement déclar�
 - [x] Vérification du montage du PC, des températures, et des réglages classiques du BIOS (X.M.P. et compagnie).
 - [x] Réponse aux questions de l’utilisateur pendant le processus.
 
-# J'ai des questions
+## J'ai des questions
 Oui, tu peux envoyer un MP sur Discord ([Piwi#1262](https://discordapp.com/users/95918004444872704)), ou sur twitter [@JeanMichelOpti](https://twitter.com/JeanMichelOpti)
 
-# Je veux donner mon argent
+
+## Je veux donner mon argent
 Oui, remplis le formulaire 
+
 
 # Détails des points :
 

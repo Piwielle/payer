@@ -15,35 +15,35 @@ Tout achat donnera évidemment lieu à une facture (et sera légalement déclar�
 
 # 1/ Installation de Windows standard
 
-- [x] 30€
+- [x] **30€**
 - [x] Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, et des logiciels principaux.
 - [x] Configuration de Windows selon les besoins.
-- Configuration de la carte graphique.
-- Réponse aux questions de l’utilisateur pendant le processus
+- [x] Configuration de la carte graphique.
+- [x] Réponse aux questions de l’utilisateur pendant le processus
 
 
 
 # 2/ Installation de Windows avancée
 
-- 40€
-- Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, et des logiciels principaux.
-- Configuration de Windows selon les besoins.
-- Configuration de la carte graphique.
-- Vérification rapide des performances via benchmarks & UserDiag
-- Vérification du montage du PC, des températures, et des réglages classiques du BIOS (X.M.P. et compagnie)
-- Réponse aux questions de l’utilisateur pendant le processus
+- [x] **40€**
+- [x] Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, et des logiciels principaux.
+- [x] Configuration de Windows selon les besoins.
+- [x] Configuration de la carte graphique.
+- [x] Vérification rapide des performances via benchmarks & UserDiag
+- [x] Vérification du montage du PC, des températures, et des réglages classiques du BIOS (X.M.P. et compagnie)
+- [x] Réponse aux questions de l’utilisateur pendant le processus
 
 
 # 3/ Réinstallation de Windows
 
-- 50€
-- Sauvegarde accompagnée du PC (logiciels, jeux, et leurs configurations/paramètres)
-- Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, et des logiciels principaux.
-- Configuration de Windows selon les besoins.
-- Configuration de la carte graphique.
-- Vérification des performances et de la stabilité via benchmarks & UserDiag
-- Vérification du montage du PC, des températures, et des réglages classiques du BIOS (X.M.P. et compagnie)
-- Réponse aux questions de l’utilisateur pendant le processus
+- [x] **50€**
+- [x] Sauvegarde accompagnée du PC (logiciels, jeux, et leurs configurations/paramètres)
+- [x] Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, et des logiciels principaux.
+- [x] Configuration de Windows selon les besoins.
+- [x] Configuration de la carte graphique.
+- [x] Vérification des performances et de la stabilité via benchmarks & UserDiag
+- [x] Vérification du montage du PC, des températures, et des réglages classiques du BIOS (X.M.P. et compagnie)
+- [x] Réponse aux questions de l’utilisateur pendant le processus
 
 
 

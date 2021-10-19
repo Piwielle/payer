@@ -45,8 +45,11 @@ Tout achat donnera évidemment lieu à une facture (et sera légalement déclar�
 - [x] Vérification du montage du PC, des températures, et des réglages classiques du BIOS (X.M.P. et compagnie).
 - [x] Réponse aux questions de l’utilisateur pendant le processus.
 
+# J'ai des questions
+Oui, tu peux envoyer un MP sur Discord (**Piwi#1262**), ou sur twitter (https://twitter.com/JeanMichelOpti)[`@JeanMichelOpti`]
 
-
+# Je veux donner mon argent
+Oui, remplis le formulaire 
 
 # Détails des points :
 

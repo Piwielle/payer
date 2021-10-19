@@ -19,7 +19,7 @@ Tout achat donnera évidemment lieu à une facture (et sera légalement déclar�
 - [x] Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, et des logiciels principaux.
 - [x] Configuration de Windows selon les besoins.
 - [x] Configuration de la carte graphique.
-- [x] Réponse aux questions de l’utilisateur pendant le processus
+- [x] Réponse aux questions de l’utilisateur pendant le processus.
 
 
 
@@ -29,9 +29,9 @@ Tout achat donnera évidemment lieu à une facture (et sera légalement déclar�
 - [x] Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, et des logiciels principaux.
 - [x] Configuration de Windows selon les besoins.
 - [x] Configuration de la carte graphique.
-- [x] Vérification rapide des performances via benchmarks & UserDiag
-- [x] Vérification du montage du PC, des températures, et des réglages classiques du BIOS (X.M.P. et compagnie)
-- [x] Réponse aux questions de l’utilisateur pendant le processus
+- [x] Vérification rapide des performances via benchmarks & UserDiag.
+- [x] Vérification du montage du PC, des températures, et des réglages classiques du BIOS (X.M.P. et compagnie).
+- [x] Réponse aux questions de l’utilisateur pendant le processus.
 
 
 # 3/ Réinstallation de Windows
@@ -41,9 +41,9 @@ Tout achat donnera évidemment lieu à une facture (et sera légalement déclar�
 - [x] Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, et des logiciels principaux.
 - [x] Configuration de Windows selon les besoins.
 - [x] Configuration de la carte graphique.
-- [x] Vérification des performances et de la stabilité via benchmarks & UserDiag
-- [x] Vérification du montage du PC, des températures, et des réglages classiques du BIOS (X.M.P. et compagnie)
-- [x] Réponse aux questions de l’utilisateur pendant le processus
+- [x] Vérification des performances et de la stabilité via benchmarks & UserDiag.
+- [x] Vérification du montage du PC, des températures, et des réglages classiques du BIOS (X.M.P. et compagnie).
+- [x] Réponse aux questions de l’utilisateur pendant le processus.
 
 
 

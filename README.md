@@ -54,8 +54,9 @@ Tout achat donnera évidemment lieu à une facture (et sera légalement déclar�
 - **Installation de Windows :**
 
 Création d’une clé USB d’installation de Windows, utilisation de la clé pour formater le bon disque, installation de Windows avec cette clé, en sélectionnant les paramètres adaptés à l’utilisateur pendant l’installation.
-\n
-\n
+\
+\
+\
 - **Configuration de Windows :**
 
 Mise à jour de Windows, tour complet des paramètres de Windows 10/11, réglage de tous les paramètres pertinents, et réglage via regedit de certains paramètres inaccessibles autrement (Cortana, hibernation, Game Bar, mode de gestion d’alimentation, etc). Désinstallation des apps préinstallées selon l’utilisateur.

@@ -1,4 +1,4 @@
-# INSTALLATION DE WINDOWS 
+<p align="center"># INSTALLATION DE WINDOWS </p>
 
 
 Salut. Si tu souhaites me payer pour que je t’aide à formater ton PC, installer et configurer Windows, c’est maintenant possible.

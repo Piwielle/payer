@@ -46,7 +46,7 @@ Tout achat donnera évidemment lieu à une facture (et sera légalement déclar�
 - [x] Réponse aux questions de l’utilisateur pendant le processus.
 
 # J'ai des questions
-Oui, tu peux envoyer un MP sur Discord (**Piwi#1262**), ou sur twitter (https://twitter.com/JeanMichelOpti)[@JeanMichelOpti]
+Oui, tu peux envoyer un MP sur Discord (**Piwi#1262**), ou sur twitter (@JeanMichelOpti)[https://twitter.com/JeanMichelOpti]
 
 # Je veux donner mon argent
 Oui, remplis le formulaire 

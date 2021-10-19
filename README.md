@@ -10,7 +10,7 @@ L’installation se basera en grande partie sur https://piwielle.github.io/oui/,
 
 L’offre est simplement disponible suite à des demandes, si tu as pas le temps, ou la flemme de lire/appliquer des choses toi-même.
 
-Tout achat donnera évidemment lieu à une facture (et sera légalement déclaré).
+Tout achat donnera évidemment lieu à une facture (et sera légalement déclaré :s).
 
 
 ## 1/ Installation de Windows standard

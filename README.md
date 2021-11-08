@@ -14,7 +14,7 @@ Tout achat donnera évidemment lieu à une facture (et sera légalement déclar�
 
 Travail effectué                                                              | 40€ | 50€ | 60€
 ------------------------------------------------------------------------- |--------|--------|--------
-Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, et des logiciels principaux. |<img src="https://i.imgur.com/Wcn2gEP.png" data-canonical-src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | Oui | Oui
+Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, et des logiciels principaux. |<img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | Oui | Oui
 Configuration de Windows selon les besoins. | Oui | Oui | Oui
 Configuration de la carte graphique. | Oui | Oui | Oui
 Réponse aux questions de l’utilisateur pendant le processus. | Oui | Oui | Oui

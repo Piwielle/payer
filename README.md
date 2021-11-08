@@ -30,8 +30,9 @@ Tout achat donnera évidemment lieu à une facture (et sera légalement déclar�
 - [x] Configuration de Windows selon les besoins.
 - [x] Configuration de la carte graphique.
 - [x] Vérification rapide des performances via benchmarks & UserDiag.
-- [x] Vérification du montage du PC, des températures, et des réglages classiques du BIOS (X.M.P. et compagnie).
 - [x] Réponse aux questions de l’utilisateur pendant le processus.
+Et : 
+- [x] Vérification du montage du PC, des températures, et des réglages classiques du BIOS (X.M.P. et compagnie).
 
 
 ## 3/ Réinstallation de Windows
@@ -41,9 +42,10 @@ Tout achat donnera évidemment lieu à une facture (et sera légalement déclar�
 - [x] Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, et des logiciels principaux.
 - [x] Configuration de Windows selon les besoins.
 - [x] Configuration de la carte graphique.
-- [x] <ins>Vérification des performances et de la stabilité via benchmarks & UserDiag.</ins>
-- [x] Vérification du montage du PC, des températures, et des réglages classiques du BIOS (X.M.P. et compagnie).
 - [x] Réponse aux questions de l’utilisateur pendant le processus.
+Et : 
+- [x] Vérification des performances et de la stabilité via benchmarks & UserDiag.
+- [x] Vérification du montage du PC, des températures, et des réglages classiques du BIOS (X.M.P. et compagnie).
 
 ## J'ai des questions
 Oui, tu peux envoyer un MP sur Discord ([Piwi#1262](https://discordapp.com/users/95918004444872704)), ou sur twitter [@JeanMichelOpti](https://twitter.com/JeanMichelOpti)
@@ -64,13 +66,17 @@ Création d’une clé USB d’installation de Windows, utilisation de la clé p
 
 - **Configuration de Windows :**
 
-Mise à jour de Windows, tour complet des paramètres de Windows 10/11, réglage de tous les paramètres pertinents, et réglage via regedit de certains paramètres inaccessibles autrement (Cortana, hibernation, Game Bar, mode de gestion d’alimentation, etc). Désinstallation des apps préinstallées selon l’utilisateur.
+Mise à jour de Windows, tour complet des paramètres de Windows 10/11, réglage de tous les paramètres pertinents, et réglage via regedit de certains paramètres inaccessibles autrement (Cortana, hibernation, Game Bar, mode de gestion d’alimentation, etc). 
+
+Désinstallation des apps préinstallées selon l’utilisateur.
 
 
 
 - **Configuration de la carte graphique :**
 
-Tour complet des paramètres du logiciel du pilote de la carte graphique, et réglage des paramètres pertinents selon l’utilisateur et la machine. Activation éventuelle du mode MSI si nécessaire. Installation de MSI afterburner pour débloquer la limite de puissance.
+Tour complet des paramètres du logiciel du pilote de la carte graphique, et réglage des paramètres pertinents selon l’utilisateur et la machine. 
+
+Activation éventuelle du mode MSI si nécessaire. Installation de MSI afterburner pour débloquer la limite de puissance.
 
 
 
@@ -82,4 +88,8 @@ Utilisation de benchmarks (Cinebench, OCCT, testmem5, UserDiag) pour vérifier q
 
 - **Vérification du montage du PC :**
 
-Vérification des bonnes pratiques du montage du PC (flux d’air adapté, utilisation de câbles d’alimentation séparés pour la CG, bonne position des barrettes de RAM dans les slots). Vérification des températures du PC en idle et en charge. Vérification des paramètres classiques du BIOS (X.M.P/D.O.C.P. , “game boost”, réglage de LLC adapté, etc).
+Vérification des bonnes pratiques du montage du PC (flux d’air adapté, utilisation de câbles d’alimentation séparés pour la CG, bonne position des barrettes de RAM dans les slots). 
+
+Vérification des températures du PC en idle et en charge. 
+
+Vérification des paramètres classiques du BIOS (X.M.P/D.O.C.P. , “game boost”, réglage de LLC adapté, etc).

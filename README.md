@@ -15,7 +15,7 @@ Tout achat donnera évidemment lieu à une facture (et sera légalement déclar�
 
 
 
-## 1/ Offres
+## Offres
 
 Travail effectué                                                              | 40€ | 50€ | 60€ | 70€
 ------------------------------------------------------------------------- |--------|--------|--------|------
@@ -27,16 +27,19 @@ Vérification des performances et de la stabilité via benchmarks & UserDiag. |<
 Vérification du montage du PC, des températures, et des réglages classiques du BIOS (X.M.P. et compagnie). |<img src="https://i.imgur.com/mazv6Wy.png" width="50" height="50" /> | <img src="https://i.imgur.com/mazv6Wy.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" />
 Avant de formater : sauvegarde accompagnée du PC (logiciels, jeux, et leurs configurations/paramètres). |<img src="https://i.imgur.com/mazv6Wy.png" width="50" height="50" /> | <img src="https://i.imgur.com/mazv6Wy.png" width="50" height="50" /> | <img src="https://i.imgur.com/mazv6Wy.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" />
 
+<br/>
 
 L'offre est évidemment adaptable, chaque tier "bonus" rajoute 10€, mais si vous voulez de l'aide pour la sauvegarde, mais pas de vérification du montage, on l'enlèvera du prix.
 
 ## J'ai des questions
 Oui, tu peux envoyer un MP sur Discord ([Piwi#1262](https://discordapp.com/users/95918004444872704)), ou sur twitter [@JeanMichelOpti](https://twitter.com/JeanMichelOpti)
 
+<br/>
 
 ## Je veux donner mon argent
 Oui, remplis le formulaire suivant : https://forms.gle/fMoT7FELyQYFdcjXA
 
+<br/>
 
 # Description du travail effectué pour chaque point :
 

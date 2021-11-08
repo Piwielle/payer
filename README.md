@@ -12,6 +12,13 @@ L’offre est simplement disponible suite à des demandes, si tu as pas le temps
 
 Tout achat donnera évidemment lieu à une facture (et sera légalement déclaré :s).
 
+First Header                                                              | 40€ | 50€ | 60€
+------------------------------------------------------------------------- | ----|-----|----
+Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, et des logiciels principaux. | Oui | non | non
+Configuration de Windows selon les besoins. | Content in the second column
+Configuration de la carte graphique. |
+Réponse aux questions de l’utilisateur pendant le processus. |
+
 
 ## 1/ Installation de Windows standard
 

@@ -15,7 +15,8 @@ Tout achat donnera évidemment lieu à une facture (et sera légalement déclar�
 
 ## 1/ Installation de Windows standard
 
-- [x] **40€**
+**40€**
+
 - [x] Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, et des logiciels principaux.
 - [x] Configuration de Windows selon les besoins.
 - [x] Configuration de la carte graphique.
@@ -25,7 +26,8 @@ Tout achat donnera évidemment lieu à une facture (et sera légalement déclar�
 
 ## 2/ Installation de Windows avancée
 
-- [x] **50€**
+**50€**
+
 - [x] Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, et des logiciels principaux.
 - [x] Configuration de Windows selon les besoins.
 - [x] Configuration de la carte graphique.
@@ -38,7 +40,8 @@ Et :
 
 ## 3/ Réinstallation de Windows
 
-- [x] **60€**
+**60€**
+
 - [x] Sauvegarde accompagnée du PC (logiciels, jeux, et leurs configurations/paramètres)
 - [x] Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, et des logiciels principaux.
 - [x] Configuration de Windows selon les besoins.

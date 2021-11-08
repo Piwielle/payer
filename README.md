@@ -18,8 +18,9 @@ Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, e
 Configuration de Windows selon les besoins. |<img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" />
 Configuration de la carte graphique. |<img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" />
 Réponse aux questions de l’utilisateur pendant le processus. |<img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" />
-Vérification des performances et de la stabilité via benchmarks & UserDiag. | Oui | Oui | Oui
-Vérification du montage du PC, des températures, et des réglages classiques du BIOS (X.M.P. et compagnie). | Oui | Oui | Oui
+Vérification des performances et de la stabilité via benchmarks & UserDiag. |<img src="https://i.imgur.com/plIjF3m.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" />
+Vérification du montage du PC, des températures, et des réglages classiques du BIOS (X.M.P. et compagnie). |<img src="https://i.imgur.com/plIjF3m.png" width="50" height="50" /> | <img src="https://i.imgur.com/plIjF3m.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" />
+
 
 ## 1/ Installation de Windows standard
 

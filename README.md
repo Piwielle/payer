@@ -41,51 +41,44 @@ Oui, remplis le formulaire suivant : https://forms.gle/fMoT7FELyQYFdcjXA
 # Description du travail effectué pour chaque point :
 
 
-- **Installation de Windows :**
+### **Installation de Windows :**
 
-Création d’une clé USB d’installation de Windows
-
-Utilisation de la clé pour formater le bon disque
-
-Installation de Windows avec cette clé, en sélectionnant les paramètres adaptés à l’utilisateur pendant l’installation.
-
-Installation de tous les pilotes adaptés à la machine de l'utilisateur.
+- Création d’une clé USB d’installation de Windows
+- Utilisation de la clé pour formater le bon disque
+- Installation de Windows avec cette clé, en sélectionnant les paramètres adaptés à l’utilisateur pendant l’installation.
+- Installation de tous les pilotes adaptés à la machine de l'utilisateur.
 
 
 
-- **Configuration de Windows :**
+###  **Configuration de Windows :**
 
-Mise à jour de Windows.
-
-Tour complet des paramètres de Windows 10 ou 11, et réglage de tous les paramètres pertinents
-
-Réglage via regedit de certains paramètres inaccessibles autrement (Cortana, hibernation, Game Bar, mode de gestion d’alimentation, etc).
-
-Désinstallation des apps préinstallées selon l’utilisateur.
+- Mise à jour de Windows.
+- Tour complet des paramètres de Windows 10 ou 11, et réglage de tous les paramètres pertinents
+- Réglage via regedit de certains paramètres inaccessibles autrement (Cortana, hibernation, Game Bar, mode de gestion d’alimentation, etc).
+- Désinstallation des apps préinstallées selon l’utilisateur.
 
 
 
 
-- **Configuration de la carte graphique :**
+###  **Configuration de la carte graphique :**
 
-Tour complet des paramètres du logiciel du pilote de la carte graphique, et réglage des paramètres pertinents selon l’utilisateur et la machine. 
-
-Activation éventuelle du mode MSI si nécessaire.
-
-Installation et utilisation de MSI afterburner pour débloquer la limite de puissance de la CG.
+- Tour complet des paramètres du logiciel du pilote de la carte graphique, et réglage des paramètres pertinents selon l’utilisateur et la machine. 
+- Activation éventuelle du mode MSI si nécessaire.
+- Installation et utilisation de MSI afterburner pour débloquer la limite de puissance de la CG.
 
 
 
-- **Vérification des performances :**
+###  **Vérification des performances :**
 
-Utilisation de benchmarks et stress test (Cinebench/TestMem5/UserDiag/OCCT) pour vérifier que les performances du PC sont celles attendues, et que la configuration est stable.
+- Utilisation de benchmarks et stress test (Cinebench/TestMem5/UserDiag/OCCT) pour vérifier que les performances du PC sont celles attendues, et que la configuration est stable.
 
 
+###  **Vérification du montage du PC :**
 
-- **Vérification du montage du PC :**
+- Vérification des bonnes pratiques du montage du PC (flux d’air adapté, utilisation de câbles d’alimentation séparés pour la CG, bonne position des barrettes de RAM dans les slots). 
+- Vérification des températures du PC au repos et en charge. 
+- Vérification des paramètres classiques du BIOS (X.M.P/D.O.C.P. , “game boost”, réglage de LLC adapté, limite de puissance du CPU selon la configuration, etc).
 
-Vérification des bonnes pratiques du montage du PC (flux d’air adapté, utilisation de câbles d’alimentation séparés pour la CG, bonne position des barrettes de RAM dans les slots). 
 
-Vérification des températures du PC au repos et en charge. 
-
-Vérification des paramètres classiques du BIOS (X.M.P/D.O.C.P. , “game boost”, réglage de LLC adapté, limite de puissance du CPU selon la configuration, etc).
+###  **Sauvegarde du PC :**
+- Sauvegarde des documents importants, configurations de logiciels et jeux, sur un disque secondaire, externe, ou une solution de stockage en ligne.

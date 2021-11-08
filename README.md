@@ -12,6 +12,11 @@ L’offre est simplement disponible suite à des demandes, si tu as pas le temps
 
 Tout achat donnera évidemment lieu à une facture (et sera légalement déclaré :s).
 
+
+
+
+## 1/ Offres
+
 Travail effectué                                                              | 40€ | 50€ | 60€ | 70€
 ------------------------------------------------------------------------- |--------|--------|--------|------
 Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, et des logiciels principaux. |<img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" />
@@ -20,46 +25,10 @@ Configuration de la carte graphique. |<img src="https://i.imgur.com/Wcn2gEP.png"
 Réponse aux questions de l’utilisateur pendant le processus. |<img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" />
 Vérification des performances et de la stabilité via benchmarks & UserDiag. |<img src="https://i.imgur.com/mazv6Wy.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" />
 Vérification du montage du PC, des températures, et des réglages classiques du BIOS (X.M.P. et compagnie). |<img src="https://i.imgur.com/mazv6Wy.png" width="50" height="50" /> | <img src="https://i.imgur.com/mazv6Wy.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" />
-Sauvegarde accompagnée du PC (logiciels, jeux, et leurs configurations/paramètres). |<img src="https://i.imgur.com/mazv6Wy.png" width="50" height="50" /> | <img src="https://i.imgur.com/mazv6Wy.png" width="50" height="50" /> | <img src="https://i.imgur.com/mazv6Wy.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" />
-
-## 1/ Installation de Windows standard
-
-**40€**
-
-- [x] Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, et des logiciels principaux.
-- [x] Configuration de Windows selon les besoins.
-- [x] Configuration de la carte graphique.
-- [x] Réponse aux questions de l’utilisateur pendant le processus.
+Avant de formater : sauvegarde accompagnée du PC (logiciels, jeux, et leurs configurations/paramètres). |<img src="https://i.imgur.com/mazv6Wy.png" width="50" height="50" /> | <img src="https://i.imgur.com/mazv6Wy.png" width="50" height="50" /> | <img src="https://i.imgur.com/mazv6Wy.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" />
 
 
-
-## 2/ Installation de Windows avancée
-
-**50€**
-
-- [x] Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, et des logiciels principaux.
-- [x] Configuration de Windows selon les besoins.
-- [x] Configuration de la carte graphique.
-- [x] Vérification rapide des performances via benchmarks & UserDiag.
-- [x] Réponse aux questions de l’utilisateur pendant le processus. 
-
-Et : 
-- [x] Vérification des performances et de la stabilité via benchmarks & UserDiag.
-
-
-## 3/ Réinstallation de Windows
-
-**60€**
-
-- [x] Sauvegarde accompagnée du PC (logiciels, jeux, et leurs configurations/paramètres)
-- [x] Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, et des logiciels principaux.
-- [x] Configuration de Windows selon les besoins.
-- [x] Configuration de la carte graphique.
-- [x] Réponse aux questions de l’utilisateur pendant le processus. 
-
-Et : 
-- [x] Vérification des performances et de la stabilité via benchmarks & UserDiag.
-- [x] Vérification du montage du PC, des températures, et des réglages classiques du BIOS (X.M.P. et compagnie).
+L'offre est évidemment adaptable, chaque tier "bonus" rajoute 10€, mais si vous voulez de l'aide pour la sauvegarde, mais pas de vérification du montage, on l'enlèvera du prix.
 
 ## J'ai des questions
 Oui, tu peux envoyer un MP sur Discord ([Piwi#1262](https://discordapp.com/users/95918004444872704)), ou sur twitter [@JeanMichelOpti](https://twitter.com/JeanMichelOpti)
@@ -69,20 +38,31 @@ Oui, tu peux envoyer un MP sur Discord ([Piwi#1262](https://discordapp.com/users
 Oui, remplis le formulaire suivant : https://forms.gle/fMoT7FELyQYFdcjXA
 
 
-# Détails des points :
+# Description du travail effectué pour chaque point :
 
 
 - **Installation de Windows :**
 
-Création d’une clé USB d’installation de Windows, utilisation de la clé pour formater le bon disque, installation de Windows avec cette clé, en sélectionnant les paramètres adaptés à l’utilisateur pendant l’installation.
+Création d’une clé USB d’installation de Windows
+
+Utilisation de la clé pour formater le bon disque
+
+Installation de Windows avec cette clé, en sélectionnant les paramètres adaptés à l’utilisateur pendant l’installation.
+
+Installation de tous les pilotes adaptés à la machine de l'utilisateur.
 
 
 
 - **Configuration de Windows :**
 
-Mise à jour de Windows, tour complet des paramètres de Windows 10/11, réglage de tous les paramètres pertinents, et réglage via regedit de certains paramètres inaccessibles autrement (Cortana, hibernation, Game Bar, mode de gestion d’alimentation, etc). 
+Mise à jour de Windows.
+
+Tour complet des paramètres de Windows 10 ou 11, et réglage de tous les paramètres pertinents
+
+Réglage via regedit de certains paramètres inaccessibles autrement (Cortana, hibernation, Game Bar, mode de gestion d’alimentation, etc).
 
 Désinstallation des apps préinstallées selon l’utilisateur.
+
 
 
 
@@ -90,13 +70,15 @@ Désinstallation des apps préinstallées selon l’utilisateur.
 
 Tour complet des paramètres du logiciel du pilote de la carte graphique, et réglage des paramètres pertinents selon l’utilisateur et la machine. 
 
-Activation éventuelle du mode MSI si nécessaire. Installation de MSI afterburner pour débloquer la limite de puissance.
+Activation éventuelle du mode MSI si nécessaire.
+
+Installation et utilisation de MSI afterburner pour débloquer la limite de puissance de la CG.
 
 
 
 - **Vérification des performances :**
 
-Utilisation de benchmarks (Cinebench, OCCT, testmem5, UserDiag) pour vérifier que les performances du PC sont celles attendues, et que la configuration est stable.
+Utilisation de benchmarks et stress test (Cinebench/TestMem5/UserDiag/OCCT) pour vérifier que les performances du PC sont celles attendues, et que la configuration est stable.
 
 
 
@@ -104,6 +86,6 @@ Utilisation de benchmarks (Cinebench, OCCT, testmem5, UserDiag) pour vérifier q
 
 Vérification des bonnes pratiques du montage du PC (flux d’air adapté, utilisation de câbles d’alimentation séparés pour la CG, bonne position des barrettes de RAM dans les slots). 
 
-Vérification des températures du PC en idle et en charge. 
+Vérification des températures du PC au repos et en charge. 
 
-Vérification des paramètres classiques du BIOS (X.M.P/D.O.C.P. , “game boost”, réglage de LLC adapté, etc).
+Vérification des paramètres classiques du BIOS (X.M.P/D.O.C.P. , “game boost”, réglage de LLC adapté, limite de puissance du CPU selon la configuration, etc).

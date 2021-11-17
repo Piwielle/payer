@@ -25,7 +25,6 @@ Configuration de la carte graphique. |<img src="https://i.imgur.com/Wcn2gEP.png"
 Réponse aux questions de l’utilisateur pendant le processus. |<img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" />
 Vérification des performances et de la stabilité via benchmarks & tests. |<img src="https://i.imgur.com/mazv6Wy.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" />
 Vérification du montage du PC, des températures, et des réglages classiques du BIOS. |<img src="https://i.imgur.com/mazv6Wy.png" width="50" height="50" /> | <img src="https://i.imgur.com/mazv6Wy.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" />
-Avant de formater : sauvegarde accompagnée du PC (logiciels, jeux, et leurs configurations/paramètres). |<img src="https://i.imgur.com/mazv6Wy.png" width="50" height="50" /> | <img src="https://i.imgur.com/mazv6Wy.png" width="50" height="50" /> | <img src="https://i.imgur.com/mazv6Wy.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" />
 
 <br/>
 

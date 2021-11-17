@@ -59,6 +59,8 @@ Oui, remplis le formulaire suivant : https://forms.gle/fMoT7FELyQYFdcjXA
 - Tour complet des paramètres de Windows 10 ou 11, et réglage de tous les paramètres pertinents
 - Réglage via regedit de certains paramètres inaccessibles autrement (Cortana, hibernation, Game Bar, mode de gestion d’alimentation, etc).
 - Désinstallation des apps préinstallées selon l’utilisateur.
+- Réglages divers dans le gestionnaire de périphériques.
+
 
 
 

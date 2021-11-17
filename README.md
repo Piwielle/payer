@@ -10,7 +10,7 @@ L’installation se basera en grande partie sur https://piwielle.github.io/oui/,
 
 L’offre est simplement disponible suite à des demandes, si tu as pas le temps, ou la flemme de lire/appliquer des choses toi-même.
 
-Tout achat donnera évidemment lieu à une facture (et sera légalement déclaré :s).
+Tout achat donnera évidemment lieu à une facture (et sera légalement déclaré et je prendrai 24% d'impôts :s).
 
 
 
@@ -29,7 +29,16 @@ Avant de formater : sauvegarde accompagnée du PC (logiciels, jeux, et leurs con
 
 <br/>
 
-L'offre est évidemment adaptable, chaque tier "bonus" rajoute 10€, mais si vous voulez de l'aide pour la sauvegarde, mais pas de vérification du montage, on l'enlèvera du prix.
+En plus des offres de base, j'ajoute quelques "addons" qui peuvent se rajouter, selon les besoins et envies de chacun.
+
+Addons                                                           | Prix |
+------------------------------------------------------------------------- |--------|
+Avant de formater : sauvegarde accompagnée du PC (logiciels, jeux, et leurs configurations/paramètres). | 10€
+Aide à la configuration de logiciel de streaming (OBS), et migration de Streamlabs (ou autre) vers OBS. | 10€
+Aide au choix d'une configuration PC complète, ou d'un upgrade. Choix des composants adapté selon les besoins de l'utilisateur | 10€
+
+
+
 
 ## J'ai des questions
 Oui, tu peux envoyer un MP sur Discord ([Piwi#1262](https://discordapp.com/users/95918004444872704)), ou sur twitter [@JeanMichelOpti](https://twitter.com/JeanMichelOpti)

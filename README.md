@@ -65,7 +65,8 @@ Oui, remplis le formulaire suivant : https://forms.gle/fMoT7FELyQYFdcjXA
 
 - Mise à jour de Windows.
 - Tour complet des paramètres de Windows 10 ou 11, et réglage de tous les paramètres pertinents
-- Réglage via regedit de certains paramètres inaccessibles autrement (Cortana, hibernation, Game Bar, mode de gestion d’alimentation, etc).
+- Changement de DNS IPv4 et IPv6 (accès à tous les sites internet, vitesse de résolution des DNS)
+- Réglage via regedit ou cmd de certains paramètres inaccessibles autrement (Cortana, hibernation, Game Bar, mode de gestion d’alimentation, etc).
 - Désinstallation des apps préinstallées selon l’utilisateur.
 - Réglages divers dans le gestionnaire de périphériques.
 

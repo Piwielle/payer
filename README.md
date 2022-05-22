@@ -17,25 +17,24 @@ Tout achat donnera évidemment lieu à une facture (et sera légalement déclar�
 
 ## Offres
 
-Travail effectué                                                              | 40€ | 50€ | 60€ 
-------------------------------------------------------------------------- |--------|--------|--------
-Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, et des logiciels principaux. |<img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> 
-Configuration de Windows selon les besoins. |<img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" />
-Configuration de la carte graphique. |<img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" />
-Réponse aux questions de l’utilisateur pendant le processus. |<img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> 
-Vérification des performances et de la stabilité via benchmarks & tests. |<img src="https://i.imgur.com/mazv6Wy.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> 
-Vérification du montage du PC, des températures, et des réglages classiques du BIOS. |<img src="https://i.imgur.com/mazv6Wy.png" width="50" height="50" /> | <img src="https://i.imgur.com/mazv6Wy.png" width="50" height="50" /> | <img src="https://i.imgur.com/Wcn2gEP.png" width="50" height="50" /> 
+Travail effectué :
+<ul>
+  <li>Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, et des logiciels principaux. </li>
+  <li>Configuration de la carte graphique.</li>
+  <li>Vérification du montage du PC, des températures, et des réglages principaux du BIOS.</li>
+  <li>Vérification de de la stabilité via benchmarks & tests.</li>
+ <li>Réponse aux questions de l’utilisateur pendant le processus.</li>
+</ul>
 
-<br/>
 
 En plus des offres de base, j'ajoute quelques "addons" qui peuvent se rajouter, selon les besoins et envies de chacun.
 
-Addons                                                           | Prix |
-------------------------------------------------------------------------- |--------|
-Avant de formater : sauvegarde accompagnée du PC (logiciels, jeux, et leurs configurations/paramètres). | 10€
-Aide à la configuration de logiciel de streaming (OBS), et migration de Streamlabs (ou autre) vers OBS. | 10€
-Aide au choix d'une configuration PC complète, ou d'un upgrade. Choix des composants adapté selon les besoins de l'utilisateur | 10€
-
+Addons :
+<ul>
+  <li>Avant de formater : sauvegarde accompagnée du PC (logiciels, jeux, et leurs configurations/paramètres). + 10€</li>
+  <li>Aide à la configuration de logiciel de streaming (OBS), et migration de Streamlabs (ou autre) vers OBS. + 10€</li>
+  <li>Aide au choix d'une configuration PC complète, ou d'un upgrade. Choix des composants adapté selon les besoins de l'utilisateur + 10€</li>
+</ul>
 
 
 

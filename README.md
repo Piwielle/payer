@@ -15,9 +15,14 @@ Tout achat donnera évidemment lieu à une facture (et sera légalement déclar�
 
 
 
-## Offres
+# Offres
 
-Travail effectué :
+**Prix de la prestation : 100€**.
+
+Le prix est élevé pour deux raisons. La première, c'est que faire tout ça sur ton PC, ça me prendra plusieurs heures. Si on retire les 24% de taxes que je paie sur ces gains, et qu'on compte 3 heures de travail, ça revient à 25€ de l'heure. Si c'est plus long, ça sera encore moins. Comme c'est des choses que je fais sur mon temps libre, il faut aussi que ça soit rentable pour moi.
+La seconde, c'est que tout ce que je vais faire sur ton PC, c'est des choses que tu peux faire par toi même, gratuitement avec des guides que je donne. Je préfère largement que tu mettes ces 100€ dans une meilleure carte graphique, et que tu installes Windows toi même. 
+
+## Travail effectué :
 <ul>
   <li>Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, et des logiciels principaux. </li>
   <li>Configuration de la carte graphique.</li>
@@ -26,12 +31,8 @@ Travail effectué :
  <li>Réponse aux questions de l’utilisateur pendant le processus.</li>
 </ul>
 
-
-En plus des offres de base, j'ajoute quelques "addons" qui peuvent se rajouter, selon les besoins et envies de chacun.
-
-Addons :
+Si besoin, il y aura aussi ces services, qui ne seront pas fait automatiquement, mais qui seront inclus sur simple demande.
 <ul>
-  <li>Avant de formater : sauvegarde accompagnée du PC (logiciels, jeux, et leurs configurations/paramètres). + 10€</li>
   <li>Aide à la configuration de logiciel de streaming (OBS), et migration de Streamlabs (ou autre) vers OBS. + 10€</li>
   <li>Aide au choix d'une configuration PC complète, ou d'un upgrade. Choix des composants adapté selon les besoins de l'utilisateur + 10€</li>
 </ul>
@@ -64,7 +65,7 @@ Oui, remplis le formulaire suivant : https://forms.gle/Aa9CbpBVyvbAE55u9
 
 - Mise à jour de Windows.
 - Tour complet des paramètres de Windows 10 ou 11, et réglage de tous les paramètres pertinents
-- Changement de DNS IPv4 et IPv6 (accès à tous les sites internet, vitesse de résolution des DNS)
+- Changement de DNS IPv4 et IPv6 (accès à tous les sites internet)
 - Réglage via regedit ou cmd de certains paramètres inaccessibles autrement (Cortana, hibernation, Game Bar, mode de gestion d’alimentation, etc).
 - Désinstallation des apps préinstallées selon l’utilisateur.
 - Réglages divers dans le gestionnaire de périphériques.
@@ -83,15 +84,12 @@ Oui, remplis le formulaire suivant : https://forms.gle/Aa9CbpBVyvbAE55u9
 
 ###  **Vérification des performances :**
 
-- Utilisation de benchmarks et stress test (Cinebench/TestMem5/UserDiag/OCCT) pour vérifier que les performances du PC sont celles attendues, et que la configuration est stable.
+- Utilisation de benchmarks et stress test (Cinebench/UserDiag/OCCT) pour vérifier que les performances du PC sont celles attendues, et que la configuration est stable.
 
 
 ###  **Vérification du montage du PC :**
 
 - Vérification des bonnes pratiques du montage du PC (flux d’air adapté, utilisation de câbles d’alimentation séparés pour la CG, bonne position des barrettes de RAM dans les slots). 
 - Vérification des températures du PC au repos et en charge. 
-- Vérification des paramètres classiques du BIOS (X.M.P/D.O.C.P. , “game boost”, réglage de LLC adapté, limite de puissance du CPU selon la configuration, etc).
+- Vérification des paramètres principaux du BIOS (X.M.P/D.O.C.P. , “game boost”, réglage de LLC adapté, limite de puissance du CPU selon la configuration, etc).
 
-
-###  **Sauvegarde du PC :**
-- Sauvegarde des documents importants, configurations de logiciels et jeux, sur un disque secondaire, externe, ou une solution de stockage en ligne.

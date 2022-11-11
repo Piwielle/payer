@@ -13,17 +13,13 @@ L’offre est simplement disponible suite à des demandes, si tu as pas le temps
 Tout achat donnera évidemment lieu à une facture.
 
 
-
-
-# Offres
-
-**Prix de la prestation : 100€**.
+# Prix de la prestation : 100€.
 
 Le prix est élevé pour deux raisons.
 
-La première, c'est que faire tout ça sur ton PC, ça me prendra plusieurs heures. Si on retire les 24% d'impôts que je vais payer, et qu'on compte 3 heures de travail, on arrive à 25€ de l'heure. Si c'est plus long, ça sera encore moins. Comme c'est des choses que je fais sur mon temps libre, il faut aussi que ça soit rentable pour moi.
+La première, c'est que tout ce que je vais faire sur ton PC, c'est des choses que tu peux faire par toi même, gratuitement avec des guides que je donne. Je préfère largement que tu mettes ces 100€ dans une meilleure carte graphique, et que tu installes Windows toi même.
 
-La seconde, c'est que tout ce que je vais faire sur ton PC, c'est des choses que tu peux faire par toi même, gratuitement avec des guides que je donne. Je préfère largement que tu mettes ces 100€ dans une meilleure carte graphique, et que tu installes Windows toi même.
+La seconde, c'est que faire tout ça sur ton PC, ça me prendra plusieurs heures. Si on retire les 24% d'impôts que je vais payer, et qu'on compte 3 heures de travail, on arrive à 25€ de l'heure. Si c'est plus long, ça sera encore moins. Comme c'est des choses que je fais sur mon temps libre, il faut aussi que ça soit rentable pour moi.
 
 ## Travail effectué :
 <ul>
@@ -37,7 +33,6 @@ La seconde, c'est que tout ce que je vais faire sur ton PC, c'est des choses que
 Si besoin spécifique, ces services peuvent également se rajouter.
 <ul>
   <li>Aide au choix d'une configuration PC complète, ou d'un upgrade. Choix des composants adapté selon les besoins de l'utilisateur **+ 20€**</li>
-  <li>.</li>
 </ul>
 
 

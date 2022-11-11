@@ -3,10 +3,10 @@
 
 Salut. Si tu souhaites me payer pour que je t’aide à formater ton PC, installer et configurer Windows, c’est maintenant possible.
 
-Que ça soit très clair dès le début : une réinstallation ne va pas magiquement doubler tes FPS, je laisse ces mensonges aux “optimisateurs” :-). Une réinstallation fait toujours du bien à ton PC, mais si on part d’un état propre, ça ne changera pas grand chose.
+Que ça soit très clair dès le début : une réinstallation ne va pas magiquement doubler tes FPS, je laisse ces mensonges aux “optimisateurs”. Une réinstallation fait toujours du bien à ton PC, mais si on part d’un état propre, ça ne changera pas grand chose.
 
 
-L’installation se basera en grande partie sur https://piwielle.github.io/oui/, adapté à tes besoins et ton PC. Rien de révolutionnaire, rien de dangereux.
+L’installation se basera en grande partie sur [mes guides pour Windows 10 et 11](https://github.com/Piwielle?tab=repositories), adapté à tes besoins et ton PC. Rien de révolutionnaire, rien de dangereux.
 
 L’offre est simplement disponible suite à des demandes, si tu as pas le temps, ou la flemme de lire/appliquer des choses toi-même.
 
@@ -64,11 +64,9 @@ Oui, remplis le formulaire suivant : https://forms.gle/Aa9CbpBVyvbAE55u9
 - Mise à jour de Windows.
 - Tour complet des paramètres de Windows 10 ou 11, et réglage de tous les paramètres pertinents
 - Changement de DNS IPv4 et IPv6 (accès à tous les sites internet)
-- Réglage via regedit ou cmd de certains paramètres inaccessibles autrement (Cortana, hibernation, Game Bar, mode de gestion d’alimentation, etc).
+- Réglage via regedit ou cmd de certains paramètres inaccessibles autrement (Cortana, hibernation, Game Bar, mode de gestion d’alimentation etc).
 - Désinstallation des apps préinstallées selon l’utilisateur.
 - Réglages divers dans le gestionnaire de périphériques.
-
-
 
 
 
@@ -77,7 +75,6 @@ Oui, remplis le formulaire suivant : https://forms.gle/Aa9CbpBVyvbAE55u9
 - Tour complet des paramètres du logiciel du pilote de la carte graphique, et réglage des paramètres pertinents selon l’utilisateur et la machine. 
 - Activation éventuelle du mode MSI si nécessaire.
 - Installation et utilisation de MSI afterburner pour débloquer la limite de puissance de la CG.
-
 
 
 ###  **Vérification des performances :**

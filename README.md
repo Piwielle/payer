@@ -28,7 +28,7 @@ La seconde, c'est que faire tout ça sur ton PC, ça me prendra plusieurs heures
   <li>Vérification du montage du PC, des températures, et des réglages principaux du BIOS.</li>
   <li>Vérification de de la stabilité via benchmarks & tests.</li>
  <li>Réponse aux questions de l’utilisateur pendant le processus.</li>
-</ul>
+</ul> 
 
 Si besoin spécifique, ces services peuvent également se rajouter.
 <ul>

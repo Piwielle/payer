@@ -24,11 +24,11 @@ La seconde, c'est que faire tout ça sur ton PC, ça me prendra plusieurs heures
 <ul>
   <li>Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, et des logiciels principaux. </li>
   <li>Configuration de la carte graphique.</li>
-  <li>Vérification du montage du PC, des températures, et des réglages principaux du BIOS.</li>
   <li>Vérification de de la stabilité via benchmarks & tests.</li>
+  <li>Vérification du montage du PC, des températures, et des réglages principaux du BIOS.</li>
  <li>Réponse aux questions de l’utilisateur pendant le processus.</li>
 </ul> 
-
+Le détail de chaque point est présenté un peu plus bas sur la page.
 
 ## J'ai des questions
 Oui, tu peux envoyer un MP sur Discord ([Piwi#1262](https://discordapp.com/users/95918004444872704)), ou sur twitter [@Piwielle](https://twitter.com/Piwielle)

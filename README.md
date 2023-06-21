@@ -6,9 +6,8 @@ Salut. Si tu souhaites me payer pour que je t’aide à formater ton PC, install
 Que ça soit très clair dès le début : une réinstallation ne va pas magiquement doubler tes FPS, je laisse ces mensonges aux “optimisateurs”. Une réinstallation fait toujours du bien à ton PC, mais si on part d’un état propre, ça ne changera pas grand chose.
 
 
-L’installation se basera en grande partie sur [mes guides pour Windows 10 et 11](https://github.com/Piwielle?tab=repositories), adapté à tes besoins et ton PC. Rien de révolutionnaire, rien de dangereux.
-
-L’offre est simplement disponible suite à des demandes, si tu as pas le temps, ou la flemme de lire/appliquer des choses toi-même.
+L’installation se basera en grande partie sur [mes guides pour Windows 10 et 11](https://installerwindows.fr/), adapté à tes besoins et ton PC.
+L’offre est simplement disponible suite à des demandes, si tu as pas le temps ou la flemme de lire/appliquer des choses toi-même.
 
 Tout achat donnera évidemment lieu à une facture.
 

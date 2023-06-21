@@ -29,12 +29,6 @@ La seconde, c'est que faire tout ça sur ton PC, ça me prendra plusieurs heures
  <li>Réponse aux questions de l’utilisateur pendant le processus.</li>
 </ul> 
 
-Si besoin spécifique, ces services peuvent également se rajouter.
-<ul>
-  <li>Aide au choix d'une configuration PC complète, ou d'un upgrade. Choix des composants adapté selon les besoins de l'utilisateur **+ 20€**</li>
-</ul>
-
-
 
 ## J'ai des questions
 Oui, tu peux envoyer un MP sur Discord ([Piwi#1262](https://discordapp.com/users/95918004444872704)), ou sur twitter [@Piwielle](https://twitter.com/Piwielle)

@@ -18,7 +18,7 @@ Le prix est élevé pour deux raisons.
 
 La première, c'est que tout ce que je vais faire sur ton PC, c'est des choses que tu peux faire par toi même, gratuitement avec des guides que je donne. Je préfère largement que tu mettes ces 60€ dans une meilleure carte graphique, et que tu installes Windows toi même.
 
-La seconde, c'est que faire tout ça sur ton PC, ça me prendra plusieurs heures. Si on retire les 24% d'impôts que je vais payer, et qu'on compte 3 heures de travail, on arrive à 15€ de l'heure. Si c'est plus long, ça sera encore moins. Comme c'est des choses que je fais sur mon temps libre, il faut aussi que ça soit rentable pour moi.
+La seconde, c'est que faire tout ça sur ton PC, ça me prendra plusieurs heures. Si on retire les 24% d'impôts que je vais payer, et qu'on compte 3 heures de travail, on arrive à 15€ de l'heure. Si c'est plus long, ça sera encore moins. Comme c'est des choses que je fais sur mon temps libre, il faut aussi que ça soit à peu près rentable.
 
 ## Travail effectué :
 <ul>

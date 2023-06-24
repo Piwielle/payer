@@ -7,22 +7,22 @@ Que ça soit très clair dès le début : une réinstallation ne va pas magiquem
 
 
 L’installation se basera en grande partie sur [mes guides pour Windows 10 et 11](https://installerwindows.fr/), adapté à tes besoins et ton PC.
-L’offre est simplement disponible suite à des demandes, si tu as pas le temps ou la flemme de lire/appliquer des choses toi-même.
+L’offre est disponible suite à des demandes. L'objectif est de proposer un service pour les gens qui ont les moyens et pas le temps ou l'envie de faire les choses sans accompagnement.
 
-Tout achat donnera évidemment lieu à une facture.
+Tout achat donnera évidemment lieu à une facture (et sera déclaré de mon côté, tout est légal ici).
 
 
-# Prix de la prestation : 100€.
+# Prix de la prestation : 60€.
 
 Le prix est élevé pour deux raisons.
 
-La première, c'est que tout ce que je vais faire sur ton PC, c'est des choses que tu peux faire par toi même, gratuitement avec des guides que je donne. Je préfère largement que tu mettes ces 100€ dans une meilleure carte graphique, et que tu installes Windows toi même.
+La première, c'est que tout ce que je vais faire sur ton PC, c'est des choses que tu peux faire par toi même, gratuitement avec des guides que je donne. Je préfère largement que tu mettes ces 60€ dans une meilleure carte graphique, et que tu installes Windows toi même.
 
-La seconde, c'est que faire tout ça sur ton PC, ça me prendra plusieurs heures. Si on retire les 24% d'impôts que je vais payer, et qu'on compte 3 heures de travail, on arrive à 25€ de l'heure. Si c'est plus long, ça sera encore moins. Comme c'est des choses que je fais sur mon temps libre, il faut aussi que ça soit rentable pour moi.
+La seconde, c'est que faire tout ça sur ton PC, ça me prendra plusieurs heures. Si on retire les 24% d'impôts que je vais payer, et qu'on compte 3 heures de travail, on arrive à 15€ de l'heure. Si c'est plus long, ça sera encore moins. Comme c'est des choses que je fais sur mon temps libre, il faut aussi que ça soit rentable pour moi.
 
 ## Travail effectué :
 <ul>
-  <li>Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, et des logiciels principaux. </li>
+  <li>Formatage d’un disque, et installation suivie de Windows, des pilotes du PC, et des logiciels essentiels.</li>
   <li>Configuration de la carte graphique.</li>
   <li>Vérification de de la stabilité via benchmarks & tests.</li>
   <li>Vérification du montage du PC, des températures, et des réglages principaux du BIOS.</li>
@@ -31,7 +31,7 @@ La seconde, c'est que faire tout ça sur ton PC, ça me prendra plusieurs heures
 Le détail de chaque point est présenté un peu plus bas sur la page.
 
 ## J'ai des questions
-Oui, tu peux envoyer un MP sur Discord ([Piwi#1262](https://discordapp.com/users/95918004444872704)), ou sur twitter [@Piwielle](https://twitter.com/Piwielle)
+Oui, tu peux envoyer un MP sur Discord ([Piwi](https://discordapp.com/users/95918004444872704)), ou sur twitter [@Piwielle](https://twitter.com/Piwielle)
 
 <br/>
 
@@ -57,7 +57,7 @@ Oui, remplis le formulaire suivant : https://forms.gle/Aa9CbpBVyvbAE55u9
 - Mise à jour de Windows.
 - Tour complet des paramètres de Windows 10 ou 11, et réglage de tous les paramètres pertinents
 - Changement de DNS IPv4 et IPv6 (accès à tous les sites internet)
-- Réglage via regedit ou cmd de certains paramètres inaccessibles autrement (Cortana, hibernation, Game Bar, mode de gestion d’alimentation etc).
+- Réglage via regedit ou cmd de certains paramètres inaccessibles autrement (Cortana, hibernation, mode de gestion d’alimentation etc).
 - Désinstallation des apps préinstallées selon l’utilisateur.
 - Réglages divers dans le gestionnaire de périphériques.
 

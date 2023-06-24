@@ -9,7 +9,7 @@ Que ça soit très clair dès le début : une réinstallation ne va pas magiquem
 L’installation se basera en grande partie sur [mes guides pour Windows 10 et 11](https://installerwindows.fr/), adapté à tes besoins et ton PC.
 L’offre est disponible suite à des demandes. L'objectif est de proposer un service pour les gens qui ont les moyens et pas le temps ou l'envie de faire les choses sans accompagnement.
 
-Tout achat donnera évidemment lieu à une facture (et sera déclaré de mon côté, tout est légal *ici*).
+Tout achat donnera évidemment lieu à une facture (et sera déclaré de mon côté, tout est légal *ici* ).
 
 
 # Prix de la prestation : 60€.

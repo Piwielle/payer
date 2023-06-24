@@ -36,7 +36,7 @@ Oui, tu peux envoyer un MP sur Discord ([Piwi](https://discordapp.com/users/9591
 <br/>
 
 ## Je veux donner mon argent
-Oui, remplis le formulaire suivant : https://forms.gle/Aa9CbpBVyvbAE55u9
+Oui, remplis le formulaire : https://forms.gle/Aa9CbpBVyvbAE55u9
 
 <br/>
 

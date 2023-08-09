@@ -56,7 +56,7 @@ Oui, remplis le formulaire : https://forms.gle/Aa9CbpBVyvbAE55u9
 
 - Mise à jour de Windows.
 - Tour complet des paramètres de Windows 10 ou 11, et réglage de tous les paramètres pertinents
-- Changement de DNS IPv4 et IPv6 (accès à tous les sites internet)
+- Changement de DNS IPv4 et IPv6 (déblocage des sites internet bloqués par les FAI français)
 - Réglage via regedit ou cmd de certains paramètres inaccessibles autrement (Cortana, hibernation, mode de gestion d’alimentation etc).
 - Désinstallation des apps préinstallées selon l’utilisateur.
 - Réglages divers dans le gestionnaire de périphériques.

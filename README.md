@@ -12,7 +12,7 @@ L’offre est disponible suite à des demandes. L'objectif est de proposer un se
 Tout achat donnera évidemment lieu à une facture (et sera déclaré de mon côté, tout est légal *ici* ).
 
 
-# Prix de la prestation : 60€.
+# Prix de la prestation : 1.50€.
 
 Le prix est élevé pour deux raisons.
 
